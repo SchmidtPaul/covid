@@ -1,0 +1,20 @@
+name: "covid19"
+#share-img: "img/logo/hexagonMMFAIR.png"
+output_dir: "."    # in GitHub master folder instead of default "_site" so that GitHub Pages works
+
+navbar:
+  title: "covid19"
+  left:
+    - text: "Home"
+      href: index.html
+
+output:
+  html_document:
+    theme: lumen
+    # code_folding: show
+    highlight: tango
+    toc: true
+    toc_float: true
+    number_sections: false
+    css: 'styles.css'
+

@@ -1,0 +1,125 @@
+title {
+  font-size: 30px;
+}
+h1 {
+  font-size: 30px;
+}
+h2 {
+  font-size: 26px;
+}
+h3 {
+  font-size: 22px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+
+/***********************/
+/* Side note box start */
+blockquote {
+  background: #f9f9f9;
+  border-left: 10px solid #ccc;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+  font-size: 10px;
+}
+blockquote:before {
+  color: #ccc;
+  content: "Quelle:";
+  font-size: 10px;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: 0em;
+}
+blockquote p {
+  display: inline;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+}
+
+/* Side note box end */
+/*********************/
+
+
+/***************************/
+/* Table of contents start */
+
+/*
+#TOC::before {
+  content: "";
+  display: block;
+  height: 200px;
+  margin: 2em 20px 40px 20px;
+  background-image: url("img/logo/hexagonDSFAIR.png");
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+*/
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: #003f75ff;
+    border-color: #003f75ff;
+}
+
+/* Table of contents end */
+/*************************/
+
+
+/**************/
+/* Tabs start */
+
+  .nav-pills>li>a {
+     color: #003f75ff;
+     }
+  .nav-pills>li>a:hover, .nav-pills>li>a:focus, .nav-pills>li.active>a, .nav-pills>li.active>a:hover, .nav-pills>li.active>a:focus{
+     color: white;
+     background-color: #003f75ff;
+     }
+     
+/* Tabs end */
+/************/
+
+
+/**************************************/
+/* Highlighting text with mouse start */
+
+::selection {
+  color: white;
+  background: #003f75ff; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  color: white;
+  background: #003f75ff; /* WebKit/Blink Browsers */
+}
+
+/* Highlighting text with mouse start */
+/**************************************/
+
+
+/*****************************/
+/* Color Active Dropdown Tab */
+
+ul.dropdown-menu>li.active>a:hover{
+    background: #003f75ff !important;
+}
+
+ul.dropdown-menu>li.active>a{
+    background: #003f75ff !important;
+}
+/* Color Active Dropdown Tab */
+/*****************************/
