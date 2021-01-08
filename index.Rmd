@@ -18,7 +18,7 @@ Wähle direkt darunter über die blauen Buttons die Grafik/Tabelle aus.
 
 ## Verlauf 🇩🇪
 
-<iframe src="https://datawrapper.dwcdn.net/5IXXB" scrolling="no" frameborder="0" style="width: 0px; border: none; min-width: 100% !important; height: 476px;" height="450"></iframe>
+<iframe src="https://datawrapper.dwcdn.net/5IXXB" scrolling="no" frameborder="0" style="width: 0px; border: 1px dotted #003f75ff; min-width: 100% !important; height: 476px;" height="450"></iframe>
 
 > https://www.n-tv.de/infografik/Coronavirus-aktuelle-Zahlen-Daten-zur-Epidemie-in-Deutschland-Europa-und-der-Welt-article21604983.html
 > <br>
@@ -28,7 +28,7 @@ Wähle direkt darunter über die blauen Buttons die Grafik/Tabelle aus.
 
 ## Karte (RKI) 🇩🇪
 
-<iframe title="&nbsp;Coronavirus&nbsp;&nbsp;Aktuelle Virus-Lage&nbsp;&nbsp;" aria-label="map" id="datawrapper-chart-Jpbx3" src="https://datawrapper.dwcdn.net/Jpbx3/32/" scrolling="no" frameborder="0" style="width: 0px; border: none; min-width: 100% !important; height: 810px;" height="600"></iframe>
+<iframe title="&nbsp;Coronavirus&nbsp;&nbsp;Aktuelle Virus-Lage&nbsp;&nbsp;" aria-label="map" id="datawrapper-chart-Jpbx3" src="https://datawrapper.dwcdn.net/Jpbx3/32/" scrolling="no" frameborder="0" style="width: 0px; border: 1px dotted #003f75ff; min-width: 100% !important; height: 810px;" height="600"></iframe>
 
 > https://www.n-tv.de/infografik/Coronavirus-aktuelle-Zahlen-Daten-zur-Epidemie-in-Deutschland-Europa-und-der-Welt-article21604983.html
 > <br>
@@ -38,7 +38,7 @@ Wähle direkt darunter über die blauen Buttons die Grafik/Tabelle aus.
 
 ## Karte (Länder) 🇩🇪
 
-<iframe src="https://datawrapper.dwcdn.net/4LVEY" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 847px;" height="0" frameborder="0"></iframe>
+<iframe src="https://datawrapper.dwcdn.net/4LVEY" scrolling="no" style="width: 0px; min-width: 100% !important; border: 1px dotted #003f75ff; height: 847px;" height="0" frameborder="0"></iframe>
 
 > https://www.n-tv.de/infografik/Die-aktuellen-Corona-Daten-des-Tages-article22141727.html
 > <br>
@@ -48,7 +48,7 @@ Wähle direkt darunter über die blauen Buttons die Grafik/Tabelle aus.
 
 ## Karte 🇪🇺
 
-<iframe src="https://datawrapper.dwcdn.net/I96Iw/" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 838px;" height="600" frameborder="0"></iframe>
+<iframe src="https://datawrapper.dwcdn.net/I96Iw/" scrolling="no" style="width: 0px; min-width: 100% !important; border: 1px dotted #003f75ff; height: 838px;" height="600" frameborder="0"></iframe>
 
 > https://www.n-tv.de/infografik/Coronavirus-aktuelle-Zahlen-Daten-zur-Epidemie-in-Deutschland-Europa-und-der-Welt-article21604983.html
 > <br>
@@ -58,7 +58,7 @@ Wähle direkt darunter über die blauen Buttons die Grafik/Tabelle aus.
 
 ## Karte   🌍
 
-<iframe src="https://ourworldindata.org/grapher/biweekly-cases-per-million-people?time=2021-01-07&country=~DEU" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/biweekly-cases-per-million-people?time=2021-01-07&country=~DEU" loading="lazy" style="width: 100%; height: 600px; border: 1px dotted #003f75ff;"></iframe>
 
 > https://ourworldindata.org/coronavirus/country/germany?country=~DEU
 > <br>
@@ -68,7 +68,7 @@ Wähle direkt darunter über die blauen Buttons die Grafik/Tabelle aus.
 
 ## Verlauf 🇩🇪
 
-<iframe src="https://datawrapper.dwcdn.net/HhXQp" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 395.5px;" height="400" frameborder="0"></iframe>
+<iframe src="https://datawrapper.dwcdn.net/HhXQp" scrolling="no" style="width: 0px; min-width: 100% !important; border: 1px dotted #003f75ff; height: 395.5px;" height="400" frameborder="0"></iframe>
 
 > https://www.n-tv.de/infografik/Coronavirus-aktuelle-Zahlen-Daten-zur-Epidemie-in-Deutschland-Europa-und-der-Welt-article21604983.html
 > <br>
@@ -78,7 +78,7 @@ Wähle direkt darunter über die blauen Buttons die Grafik/Tabelle aus.
 
 ## Karte 🇩🇪
 
-<iframe src="https://datawrapper.dwcdn.net/FBgB0/" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 798px;" height="600" frameborder="0"></iframe>
+<iframe src="https://datawrapper.dwcdn.net/FBgB0/" scrolling="no" style="width: 0px; min-width: 100% !important; border: 1px dotted #003f75ff; height: 798px;" height="600" frameborder="0"></iframe>
 
 > https://www.n-tv.de/panorama/So-sieht-es-in-den-deutschen-Kliniken-aus-article22134134.html
 > <br>
@@ -90,7 +90,7 @@ Wähle direkt darunter über die blauen Buttons die Grafik/Tabelle aus.
 
 ## Verlauf Übersterblichkeit 🌍
 
-<iframe src="https://ourworldindata.org/grapher/excess-mortality-p-scores?tab=chart&stackMode=absolute&time=earliest..2020-11-29&country=DEU~ESP~USA&region=World" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/excess-mortality-p-scores?tab=chart&stackMode=absolute&time=earliest..2020-11-29&country=DEU~ESP~USA&region=World" loading="lazy" style="width: 100%; height: 600px; border: 1px dotted #003f75ff;"></iframe>
 
 > https://ourworldindata.org/excess-mortality-covid
 > <br>
@@ -102,7 +102,7 @@ Wähle direkt darunter über die blauen Buttons die Grafik/Tabelle aus.
 
 Diese Abbildung sieht 
 
-<iframe src="https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&country=USA~CHN~JPN~ESP~DEU~FRA&region=World&deathsMetric=true&interval=smoothed&perCapita=true&smoothing=7&pickerMetric=location&pickerSort=asc" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&country=USA~CHN~JPN~ESP~DEU~FRA&region=World&deathsMetric=true&interval=smoothed&perCapita=true&smoothing=7&pickerMetric=location&pickerSort=asc" loading="lazy" style="width: 100%; height: 600px; border: 1px dotted #003f75ff;"></iframe>
 
 > https://ourworldindata.org/coronavirus-data-explorer?zoomToSelection=true&deathsMetric=true&dailyFreq=true&perCapita=true&smoothing=7&country=USA~GBR~CAN~BRA~AUS~IND~DEU~FRA
 > <br>
@@ -122,7 +122,7 @@ Dies ist nur ein Screenshot. Die Interaktive Version dieser Grafik gibt es [hier
     
 ## Verlauf Corona 🇩🇪
 
-<iframe src="https://datawrapper.dwcdn.net/D6IMg" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 494px;" height="0" frameborder="0"></iframe>
+<iframe src="https://datawrapper.dwcdn.net/D6IMg" scrolling="no" style="width: 0px; min-width: 100% !important; border: 1px dotted #003f75ff; height: 494px;" height="0" frameborder="0"></iframe>
 
 > https://www.n-tv.de/infografik/Coronavirus-aktuelle-Zahlen-Daten-zur-Epidemie-in-Deutschland-Europa-und-der-Welt-article21604983.html
 > <br>
@@ -132,7 +132,7 @@ Dies ist nur ein Screenshot. Die Interaktive Version dieser Grafik gibt es [hier
 
 ## Verlauf Corona  🌍
 
-<iframe src="https://ourworldindata.org/grapher/daily-covid-deaths-7-day?tab=chart&time=2020-02-11..latest&country=OWID_WRL~Asia~European%20Union~DEU~North%20America~Africa~South%20America" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/daily-covid-deaths-7-day?tab=chart&time=2020-02-11..latest&country=OWID_WRL~Asia~European%20Union~DEU~North%20America~Africa~South%20America" loading="lazy" style="width: 100%; height: 600px; border: 1px dotted #003f75ff;"></iframe>
 
 > https://ourworldindata.org/covid-deaths
 > <br>
@@ -142,7 +142,7 @@ Dies ist nur ein Screenshot. Die Interaktive Version dieser Grafik gibt es [hier
 
 ## Summe Corona Alter 🇩🇪
 
-<iframe src="https://datawrapper.dwcdn.net/fKsyf" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 491px;" height="500" frameborder="0"></iframe>
+<iframe src="https://datawrapper.dwcdn.net/fKsyf" scrolling="no" style="width: 0px; min-width: 100% !important; border: 1px dotted #003f75ff; height: 491px;" height="500" frameborder="0"></iframe>
 
 > https://www.n-tv.de/infografik/Coronavirus-aktuelle-Zahlen-Daten-zur-Epidemie-in-Deutschland-Europa-und-der-Welt-article21604983.html
 > <br>
@@ -152,7 +152,7 @@ Dies ist nur ein Screenshot. Die Interaktive Version dieser Grafik gibt es [hier
 
 ## Summe Corona Zeitraum 🇩🇪
 
-<iframe src="https://datawrapper.dwcdn.net/Ph5mv" scrolling="no" style="width: 0px; min-width: 400px; border: medium none; height: 500px;" height="0" frameborder="0"></iframe>
+<iframe src="https://datawrapper.dwcdn.net/Ph5mv" scrolling="no" style="width: 0px; min-width: 400px; border: 1px dotted #003f75ff; height: 500px;" height="0" frameborder="0"></iframe>
 
 > https://www.n-tv.de/infografik/Coronavirus-aktuelle-Zahlen-Daten-zur-Epidemie-in-Deutschland-Europa-und-der-Welt-article21604983.html
 > <br>
@@ -164,7 +164,7 @@ Dies ist nur ein Screenshot. Die Interaktive Version dieser Grafik gibt es [hier
 
 ## Quote 🇩🇪
 
-<iframe src="https://datawrapper.dwcdn.net/Dg8MH" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 1015px;" height="0" frameborder="0"></iframe>
+<iframe src="https://datawrapper.dwcdn.net/Dg8MH" scrolling="no" style="width: 0px; min-width: 100% !important; border: 1px dotted #003f75ff; height: 1015px;" height="0" frameborder="0"></iframe>
 
 > https://www.n-tv.de/panorama/Alle-Daten-alle-Fakten-zur-Corona-Impfung-article22249335.html
 >
@@ -175,7 +175,7 @@ Dies ist nur ein Screenshot. Die Interaktive Version dieser Grafik gibt es [hier
 
 ## Quote  🌍
 
-<iframe src="https://ourworldindata.org/grapher/covid-vaccination-doses-per-capita?tab=map&stackMode=absolute&region=World" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/covid-vaccination-doses-per-capita?tab=map&stackMode=absolute&region=World" loading="lazy" style="width: 100%; height: 600px; border: 1px dotted #003f75ff;"></iframe>
 
 > https://ourworldindata.org/covid-vaccinations
 >
@@ -186,7 +186,7 @@ Dies ist nur ein Screenshot. Die Interaktive Version dieser Grafik gibt es [hier
 
 ## Impfstoffe  🌍
 
-<iframe src="https://datawrapper.dwcdn.net/uXg68/" scrolling="no" style="width: 0px; min-width: 100% !important; border: medium none; height: 426px;" height="0" frameborder="0"></iframe>
+<iframe src="https://datawrapper.dwcdn.net/uXg68/" scrolling="no" style="width: 0px; min-width: 100% !important; border: 1px dotted #003f75ff; height: 426px;" height="0" frameborder="0"></iframe>
 
 > https://www.n-tv.de/infografik/Coronavirus-aktuelle-Zahlen-Daten-zur-Epidemie-in-Deutschland-Europa-und-der-Welt-article21604983.html
 >
@@ -199,7 +199,7 @@ Dies ist nur ein Screenshot. Die Interaktive Version dieser Grafik gibt es [hier
 
 ## Karte Hausarrest  🌍
 
-<iframe src="https://ourworldindata.org/grapher/stay-at-home-covid?stackMode=absolute&region=World" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/stay-at-home-covid?stackMode=absolute&region=World" loading="lazy" style="width: 100%; height: 600px; border: 1px dotted #003f75ff;"></iframe>
 
 > https://ourworldindata.org/policy-responses-covid?country=~DEU
 >
@@ -210,7 +210,7 @@ Dies ist nur ein Screenshot. Die Interaktive Version dieser Grafik gibt es [hier
 
 ## Karte Maske  🌍
 
-<iframe src="https://ourworldindata.org/grapher/face-covering-policies-covid?stackMode=absolute&country=&region=World" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/face-covering-policies-covid?stackMode=absolute&country=&region=World" loading="lazy" style="width: 100%; height: 600px; border: 1px dotted #003f75ff;"></iframe>
 
 > https://ourworldindata.org/policy-responses-covid?country=~DEU
 >
@@ -221,7 +221,7 @@ Dies ist nur ein Screenshot. Die Interaktive Version dieser Grafik gibt es [hier
 
 ## Karte Reisen  🌍
 
-<iframe src="https://ourworldindata.org/grapher/international-travel-covid?stackMode=absolute&region=World" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/international-travel-covid?stackMode=absolute&region=World" loading="lazy" style="width: 100%; height: 600px; border: 1px dotted #003f75ff;"></iframe>
 
 > https://ourworldindata.org/policy-responses-covid?country=~DEU
 >
@@ -230,7 +230,7 @@ Dies ist nur ein Screenshot. Die Interaktive Version dieser Grafik gibt es [hier
 
 ## Karte Schulen   🌍
 
-<iframe src="https://ourworldindata.org/grapher/school-closures-covid?stackMode=absolute&time=2021-01-07&region=World" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
+<iframe src="https://ourworldindata.org/grapher/school-closures-covid?stackMode=absolute&time=2021-01-07&region=World" loading="lazy" style="width: 100%; height: 600px; border: 1px dotted #003f75ff;"></iframe>
 
 > https://ourworldindata.org/policy-responses-covid?country=~DEU
 >
