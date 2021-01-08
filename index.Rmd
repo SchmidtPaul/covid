@@ -1,5 +1,5 @@
 ---
-title: "Covid19 Übersicht"
+title: "COVID-19 Übersicht"
 ---
 
 Navigiere zu einer der Überschriften
