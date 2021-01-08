@@ -5,16 +5,17 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3870686755",
+    "hash" : "1944070482",
     "id" : "D2D581D1",
-    "lastKnownWriteTime" : 1609350805,
-    "last_content_update" : 1609350805386,
+    "lastKnownWriteTime" : 1610120713,
+    "last_content_update" : 1610120713127,
     "path" : "D:/Coding/covid/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {
-        "cursorPosition" : "13,12",
+        "cursorPosition" : "197,18",
+        "docOutlineSize" : "144",
         "docOutlineVisible" : "1",
-        "scrollLine" : "0"
+        "scrollLine" : "195"
     },
     "read_only" : false,
     "read_only_alternatives" : [
